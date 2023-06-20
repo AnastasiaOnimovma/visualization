@@ -1,6 +1,6 @@
 # visualization
 
 Для просмотра анализа и исходных наборов данных
-https://disk.yandex.ru/d/PvleYFMew2VlpA
-https://disk.yandex.ru/d/SH_rVrziBGKQ7g
-https://disk.yandex.ru/d/kHcsZVoaq5T4XA
+Практика 2: https://disk.yandex.ru/d/PvleYFMew2VlpA ; 
+Практика 3: https://disk.yandex.ru/d/SH_rVrziBGKQ7g ; 
+Практика 4: https://disk.yandex.ru/d/kHcsZVoaq5T4XA
